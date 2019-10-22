@@ -79,7 +79,7 @@ oauthlib==2.0.2
 packaging==16.8
 paho-mqtt==1.2.3
 paramiko==2.1.2
-Pillow==3.0.0
+Pillow==6.2.0
 psycopg2==2.7.1
 pyasn1==0.2.3
 pycparser==2.17

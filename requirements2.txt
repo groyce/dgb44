@@ -65,7 +65,7 @@ django-debug-toolbar==1.7
 django-mathfilters==0.4.0
 django-paypal==0.2.5
 djangorestframework==3.6.3
-flower==0.9.1
+flower==1.2.0
 gunicorn==19.7.1
 idna==2.5
 isodate==0.5.4
